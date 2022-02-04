@@ -1,0 +1,26 @@
+body
+{
+    color: white;
+    background-color: black;
+    font-size: x-large !important;
+}
+
+body.mars
+{
+    color: rgb(255, 140, 0);
+}
+body.neptune
+{
+    color: rgb(140, 179, 203);
+}
+body.earth
+{
+    color: rgb(97, 225, 101);
+}
+
+a:link {
+    color: rgb(234, 185, 242);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
